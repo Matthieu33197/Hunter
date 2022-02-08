@@ -1,2 +1,2 @@
 # Hunter
-Make a little video game like dunk hunter in c with csfml lib
+Make a little video game like duck hunter in c with csfml lib
